@@ -2,7 +2,7 @@
 
 🎯 I’m a Machine Learning and Generative AI enthusiast transitioning from 7+ years of pharmaceutical industry experience.
 
-🏢 Currently working as **Senior Executive at Shilpa Medicare Limited**, specializing in **production and QMS**.
+🏢 Currently working as **Senior Executive at Ritsa Pharma Private Limited**, specializing in **Machine Learning**.
 
 💡 I'm passionate about building AI-driven solutions for healthcare, quality management, and clinical trial data.
 
